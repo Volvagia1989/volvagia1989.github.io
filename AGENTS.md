@@ -1,7 +1,7 @@
 # AGENTS.md — volvagia1989.github.io
 
 > **Antes de tocar nada, leé SIEMPRE al inicio** §0 y §1 de
-> `/Users/volvagia/REPOSITORIOS/Z - VIGENTES/dev-standards/AGENTS.md`.
+> `/Users/volvagia/Library/CloudStorage/Dropbox/REPOSITORIOS/Z - VIGENTES/dev-standards/AGENTS.md`.
 
 ## Qué es
 
